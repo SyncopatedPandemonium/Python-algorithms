@@ -4,7 +4,7 @@ import random
 import time
 import re
 
-from find_faster import find_faster
+from naive_brute_force import find_faster
 
 def main_faster():
     with open("/Users/temporaryadmin/github-classroom/dci-dh-python-e21-01/python-algorithmic_thinking-algorithm_efficiency-SyncopatedPandemonium/src/sample.txt") as f:
